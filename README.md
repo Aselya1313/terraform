@@ -1,4 +1,2 @@
 # demo
-# hello
-# buy
-Today is beautiful day
+Aselya Asanbekova - Student
