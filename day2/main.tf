@@ -23,7 +23,7 @@ resource "aws_subnet" "my_subnet2" {
 resource "aws_instance" "my_instance" {
   subnet_id = aws_subnet.my_subnet2.id
   ami           = "ami-051f8a213df8bc089"  # AMI Amazon Linux
-  instance_type = "t2.micro"
+  instance_type = "t3.micro"
   
 }
 
